@@ -12,6 +12,12 @@ html {
 	background-size: cover;
 }
 
+.hero-pricing {
+	background-image: url('images/pic_2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .smile-off {
 	width: 4rem;
 	height: 4rem;
