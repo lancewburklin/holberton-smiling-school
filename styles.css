@@ -2,6 +2,7 @@
 
 html {
 	scroll-behavior: smooth;
+	max-width: 100%;
 }
 
 .hero-section {
@@ -113,4 +114,155 @@ ul {
 
 .car-info {
 	margin-left: 2rem;
+}
+
+/**
+	HOMEPAGE PART 3
+**/
+
+.card {
+	width: 18rem;
+}
+
+.vid-item {
+	background-color: white;
+}
+
+.play-1 {
+	background-image: url('images/thumbnail_1.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.card-img-top {
+	transform: scale(.4);
+}
+
+.card {
+	width: 15rem;
+}
+
+.car-pr-img {
+	width: 2rem;
+	height: 2rem;
+}
+
+.card-b-1 {
+	display: flex;
+	align-items: center;
+
+}
+
+.card-b-1 p {
+	margin-top: 1rem;
+	margin-left: 1rem;
+	color: #C271FF;
+}
+
+.holberton_school-icon-star:before {
+  content: "\e914";
+  font-size: 1rem;
+  color: #C271FF;
+}
+
+.holberton_school-icon-star-bad:before {
+	content: "\e914";
+  	font-size: 1rem;
+	color: #D8D8D8;
+}
+
+.card-b-2 p {
+	margin-left: 1rem;
+	color: #C271FF;
+}
+
+.mdFlex {
+	justify-content: space-evenly;
+}
+
+.lgFlex {
+	justify-content: center;
+}
+
+.lgFlex .card {
+	margin-left: .5rem;
+	margin-right: .5rem;
+}
+
+.pop-tut {
+	margin-top: 3rem;
+}
+
+.text-purp {
+	color: #C271FF;
+}
+
+.bunchOfSmiles {
+	margin-top: 3rem;
+	padding-top: 4rem;
+	background-color: #071629;
+	color: white;
+	padding-bottom: 3rem;
+}
+
+.bunchOfSmiles button {
+	display: block;
+	margin-top: 3rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bunchOfSmiles h2 {
+	margin-bottom: 4rem;
+}
+
+.oneSmile p {
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+}
+
+.oneSmile {
+	margin-top: 1rem;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+
+.fourSmiles {
+	justify-content: space-evenly;
+}
+
+footer {
+	height: 25vh;
+	background-color: #071629;
+}
+
+footer img {
+	margin-top: 2.5rem;
+	transform: scale(.5);
+}
+
+.logoImg {
+	margin-left: -4rem;
+}
+
+.holberton_school-icon-ic_facebook:before {
+  content: "\e908";
+}
+
+.holberton_school-icon-ic_instagram:before {
+  content: "\e90a";
+}
+
+.holberton_school-icon-ic_twitter:before {
+  content: "\e90f";
+}
+
+.socials {
+	margin-top: 2rem;
+}
+
+footer span:before {
+	font-size: 2rem;
+	color: white;
+	margin-left: .4rem;
 }
