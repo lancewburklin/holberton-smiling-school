@@ -31,7 +31,7 @@ ul {
 	list-style: none;
 }
 
-.purp {
+.hero-section .purp {
 	background-color: #C271FF;
 	height: 2.5rem;
 	width: 13rem;
@@ -271,4 +271,54 @@ footer span:before {
 	font-size: 2rem;
 	color: white;
 	margin-left: .4rem;
+}
+
+th button {
+	background-color: #C271FF;
+	height: 2.5rem;
+	width: 9rem;
+	border-radius: 50px;
+	line-height: 2.5rem;
+}
+
+thead tr td {
+	border: hidden;
+	border-top: hidden;
+}
+
+.table thead td {
+	border-top: 0px!important;
+}
+
+thead tr th {
+	border: hidden;
+}
+
+thead tr {
+	border: hidden;
+}
+
+thead {
+	border: hidden;
+}
+
+.holberton_school-icon-check:before {
+	text-align: center;
+	content: '\e905';
+	font-size: 2rem;
+	color: #82D24F;
+}
+
+td span {
+	display: flex;
+	justify-content: center;
+}
+
+.signal-logo {
+	transform: scale(.5);
+	margin-left: -2rem;
+}
+
+.final-table {
+	border: hidden!important;
 }
