@@ -363,6 +363,7 @@ td span {
 .course-form {
 	background-color: #C271FF;
 	padding-top: 4rem;
+	padding-bottom: 3rem;
 }
 
 .course-form input, .course-form select {
@@ -372,4 +373,12 @@ td span {
 	border-bottom: 1px solid white;
 	width: 20rem;
 	height: 2.5rem;
+}
+
+.course-card {
+	max-width: 17rem!important;
+}
+
+.course-con {
+	margin-top: 3rem;
 }
