@@ -326,3 +326,15 @@ td span {
 .price-carousel {
 	margin-top: -1rem;
 }
+
+.FAQ-section {
+	margin-top: 3rem;
+}
+
+.FAQ-section h1 {
+	margin-bottom: 5rem;
+}
+
+.FAQ-par {
+	max-width: 27rem;
+}
