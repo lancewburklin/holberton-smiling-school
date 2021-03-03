@@ -359,3 +359,17 @@ td span {
 	margin-right: auto;
 	margin-left: auto;
 }
+
+.course-form {
+	background-color: #C271FF;
+	padding-top: 4rem;
+}
+
+.course-form input, .course-form select {
+	background-color: #FFFFFF;
+	opacity: .25;
+	border: none;
+	border-bottom: 1px solid white;
+	width: 20rem;
+	height: 2.5rem;
+}
