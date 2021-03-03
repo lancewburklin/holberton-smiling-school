@@ -322,3 +322,7 @@ td span {
 .final-table {
 	border: hidden!important;
 }
+
+.price-carousel {
+	margin-top: -1rem;
+}
