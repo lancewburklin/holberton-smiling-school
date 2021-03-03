@@ -338,3 +338,7 @@ td span {
 .FAQ-par {
 	max-width: 27rem;
 }
+
+.pricing-footer .socials {
+	margin-top: -1rem;
+}
